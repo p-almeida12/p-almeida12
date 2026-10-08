@@ -11,7 +11,7 @@ and share their valuable insights.
 
 ## 👨‍💻 About Me
 
-- 💼 I work as a **Backend Developer** @ ePharma
+- 💼 I work as a **Backend Developer** @ [Glintt](https://www.glinttglobal.com/en/)
 - 🎓 I hold a **Master’s degree in Biomedical Engineering**
 - 🌎 Website: **[https://p-almeida12.github.io](https://p-almeida12.github.io)**
 
@@ -19,7 +19,7 @@ and share their valuable insights.
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=java,maven,spring,postgresql,mysql,mongodb,docker,git,github,postman,azure,idea&perline=12"  alt=""/>
+<img src="https://skillicons.dev/icons?i=java,maven,spring,python,fastapi,postgresql,mysql,mongodb,docker,git,github,postman,azure&perline=12"  alt=""/>
 
 ---
 
