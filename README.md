@@ -19,7 +19,7 @@ and share their valuable insights.
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=java,maven,spring,python,fastapi,postgresql,mysql,mongodb,docker,git,github,postman,azure&perline=12"  alt=""/>
+<img src="https://skillicons.dev/icons?i=java,maven,spring,python,fastapi,postgresql,mysql,mongodb,docker,git,github,postman,azure&perline=15"  alt=""/>
 
 ---
 
