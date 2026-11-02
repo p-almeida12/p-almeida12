@@ -11,7 +11,7 @@ and share their valuable insights.
 
 ## 👨‍💻 About Me
 
-- 💼 I work as a **Backend Developer** @ [Glintt](https://www.glinttglobal.com/en/)
+- 💼 I work as a **Backend Developer** @ [Glintt Global](https://www.glinttglobal.com/en/)
 - 🎓 I hold a **Master’s degree in Biomedical Engineering**
 - 🌎 Website: **[https://p-almeida12.github.io](https://p-almeida12.github.io)**
 
